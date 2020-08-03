@@ -32,7 +32,7 @@
 
 <script>
 export default {
-  name: 'DDDDDDn',
+  name: 'Add Tags',
   props: {
     msg: String
   }
