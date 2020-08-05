@@ -32,7 +32,7 @@
 
 <script>
 export default {
-  name: 'Add Tags',
+  name: 'Add Events, Log',
   props: {
     msg: String
   }
