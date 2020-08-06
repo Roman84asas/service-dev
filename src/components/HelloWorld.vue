@@ -32,7 +32,7 @@
 
 <script>
 export default {
-  name: 'Add Events, Log',
+  name: 'Add API',
   props: {
     msg: String
   }
