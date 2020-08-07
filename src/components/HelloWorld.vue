@@ -32,7 +32,7 @@
 
 <script>
 export default {
-  name: 'Add API',
+  name: 'Add Front header',
   props: {
     msg: String
   }
