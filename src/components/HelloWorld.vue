@@ -32,7 +32,7 @@
 
 <script>
 export default {
-  name: 'Add Front header',
+  name: 'Add Search Home',
   props: {
     msg: String
   }
