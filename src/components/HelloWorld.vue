@@ -32,7 +32,7 @@
 
 <script>
 export default {
-  name: 'Add Search Home',
+  name: 'Add invate and info section',
   props: {
     msg: String
   }
