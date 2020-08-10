@@ -32,7 +32,7 @@
 
 <script>
 export default {
-  name: 'Add invate and info section',
+  name: 'Add New fonts',
   props: {
     msg: String
   }
