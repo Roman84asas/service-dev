@@ -34,7 +34,7 @@
 
 <script>
 export default {
-  name: 'Add Home page all',
+  name: 'Add Forum page all',
   props: {
     msg: String
   }
