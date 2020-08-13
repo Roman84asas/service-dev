@@ -34,7 +34,7 @@
 
 <script>
 export default {
-  name: 'Add Forum page all',
+  name: 'Add Category page all',
   props: {
     msg: String
   }
