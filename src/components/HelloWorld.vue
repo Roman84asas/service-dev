@@ -34,7 +34,7 @@
 
 <script>
 export default {
-  name: 'Add Category page all',
+  name: 'Add Subcategory page Topics',
   props: {
     msg: String
   }
