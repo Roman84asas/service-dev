@@ -34,7 +34,7 @@
 
 <script>
 export default {
-  name: 'Add Subcategory page Topics',
+  name: 'Add Message and Comments',
   props: {
     msg: String
   }
