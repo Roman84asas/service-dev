@@ -34,7 +34,7 @@
 
 <script>
 export default {
-  name: 'Add Message and Comments',
+  name: 'Add TopCategories? Categories and SubCotigories',
   props: {
     msg: String
   }
