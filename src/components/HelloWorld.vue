@@ -34,7 +34,7 @@
 
 <script>
 export default {
-  name: 'Add wievs',
+  name: 'Добавил коментарии и сообщения в статьи и темы обсуждения',
   props: {
     msg: String
   }
