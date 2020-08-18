@@ -34,7 +34,7 @@
 
 <script>
 export default {
-  name: 'Add TopCategories? Categories and SubCotigories',
+  name: 'Add wievs',
   props: {
     msg: String
   }
