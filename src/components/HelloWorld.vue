@@ -34,7 +34,7 @@
 
 <script>
 export default {
-  name: 'Работа с авторизацией через соцсети',
+  name: 'Закончил логинизацию',
   props: {
     msg: String
   }
