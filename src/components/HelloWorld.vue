@@ -34,7 +34,7 @@
 
 <script>
 export default {
-  name: 'Закончил логинизацию',
+  name: 'Закончил регистрацию',
   props: {
     msg: String
   }
