@@ -34,7 +34,7 @@
 
 <script>
 export default {
-  name: 'Закончил регистрацию',
+  name: 'Передеалал пути и закночил профиль',
   props: {
     msg: String
   }
