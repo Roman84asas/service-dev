@@ -34,7 +34,7 @@
 
 <script>
 export default {
-  name: 'Закончил Топик и начал статью',
+  name: 'Закончил Статью',
   props: {
     msg: String
   }
