@@ -34,7 +34,7 @@
 
 <script>
 export default {
-  name: 'Удалил старый проект',
+  name: 'Добавил заново проект проект',
   props: {
     msg: String
   }
