@@ -34,7 +34,7 @@
 
 <script>
 export default {
-  name: 'Начал страницу Поиск',
+  name: 'Удалил старый проект',
   props: {
     msg: String
   }
