@@ -34,7 +34,7 @@
 
 <script>
 export default {
-  name: 'Добавил заново проект проект',
+  name: 'Добавил заново бэк нового проекта',
   props: {
     msg: String
   }
