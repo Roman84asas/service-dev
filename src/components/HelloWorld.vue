@@ -34,7 +34,7 @@
 
 <script>
 export default {
-  name: 'Добавил заново бэк нового проекта',
+  name: 'Нашел необходимое для генерации html',
   props: {
     msg: String
   }
