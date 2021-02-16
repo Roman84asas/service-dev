@@ -34,7 +34,7 @@
 
 <script>
 export default {
-  name: 'Нашел необходимое для генерации html',
+  name: 'Добавил миграцию (https://github.com/Roman84asas/CMS)',
   props: {
     msg: String
   }
